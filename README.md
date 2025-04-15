@@ -14,6 +14,8 @@ Sales by fuel type (Petrol, Diesel, etc.) and transmission (Manual/Automatic)
 
 Would recommend opening the file using Power Bi app for Mobile Layout on Page 2 of the report and watching interactive filters and tooltip do their magic :)
 
+PDF Version may lead to loss of visuals during exporting
+
 Attaching PDF version JIC
 
 
